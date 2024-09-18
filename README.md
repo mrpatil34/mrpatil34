@@ -19,12 +19,18 @@ As a recent graduate from **Arizona State University** with a **Master of Scienc
   <img src = "https://img.shields.io/badge/MySQL-339933?style=flat&logo=mySQL&logoColor=white">
   <img src = "https://img.shields.io/badge/PostgreSQL-0052CC?style=flat&logo=postgresql&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft SQL Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Big%20Data%20Modeling-20B2AA?style=flat&logo=data&logoColor=white">
   [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
   <img src = "https://img.shields.io/badge/ER/Studio-0052CC?style=flat&logo=erstudio&logoColor=white">
   <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF">
   <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-4EAA25?style=flat&logo=amazonaws&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=flat&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Storage-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white">
   <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
   <img src = "https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
@@ -48,11 +54,11 @@ As a recent graduate from **Arizona State University** with a **Master of Scienc
 
 <h3> Whats my Motivation ? </h3>
 
-During my bachelor's degree, we had a courses like Database Management Systems (DBMS) and Advanced Database Management System, and it was during this course that my interest in data analysis developed. My professor explained the significance of data analysis in managing large volumes of data and deriving actionable insights from it. 
+During my Bachelor of Engineering in Information Technology, I completed courses in Database Management Systems (DBMS) and Advanced Database Management Systems, which sparked my interest in data analysis. Under the guidance of my professor, I learned about the crucial role of data analysis in handling large datasets and deriving actionable insights.
 
-Specifically, he highlighted the need for data analysis in the context of the supermarket business, where vast amounts of data are generated daily through sales transactions, inventory records, customer information, and more. 
+My professor demonstrated the application of data analysis in the supermarket industry, where immense volumes of data are generated daily through sales transactions, inventory, and customer records. This course opened my eyes to how data analysis can optimize inventory management, enhance pricing and promotion strategies, improve customer satisfaction, and boost profitability through informed decision-making.
 
-Understanding the role of data analysis in improving various aspects of supermarket operations, such as inventory management, pricing and promotion Optimization, customer satisfaction, fraud detection, loss prevention and profitability, intrigued me. It became clear to me that the ability to extract valuable information from complex datasets could drive informed decision-making and lead to significant business benefits.
+This understanding inspired me to pursue data-related roles, eventually leading to my work as a Data Engineer, where I applied these skills to design advanced data models, streamline ETL processes, and generate business insights to drive operational efficiency.
 
 <hr>
 
