@@ -20,6 +20,7 @@ As a recent graduate from **Arizona State University** with a **Master of Scienc
   <img src = "https://img.shields.io/badge/PostgreSQL-0052CC?style=flat&logo=postgresql&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft SQL Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/Big%20Data%20Modeling-20B2AA?style=flat&logo=data&logoColor=white">
+  <img src="https://img.shields.io/badge/%20ETL-20B2AA?style=flat&logo=data&logoColor=white">
   [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
   <img src = "https://img.shields.io/badge/ER/Studio-0052CC?style=flat&logo=erstudio&logoColor=white">
   <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
